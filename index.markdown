@@ -23,8 +23,8 @@ Python, database development, networking, protocol development, and
 lots of other technologies that have come and gone.
 
 I'm still primarily a Linux user at home, since that's just how I
-work.  This web page is developed with Vim and Jekyll, and have even
-experimented with Audrino projects. 
+work.  This web page is developed with Vim and Jekyll, and have 
+also experimented with Audrino projects. 
 
 I've documented a few of my personal projects here:
 
